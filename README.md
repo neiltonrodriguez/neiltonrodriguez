@@ -25,7 +25,7 @@
   Tenho vivência com GIT, metodologias ágeis, solução de problemas, planejamento estratégico, tomada de decisões e comunicação eficaz. Essas habilidades me ajudam a contribuir efetivamente para projetos, colaborar bem com equipes e entregar soluções de alta qualidade em ambientes dinâmicos e rápidos.
 </p>
 <p align="left">
-Durante minha carreira, trabalhei no desenvolvimento e manutenção de microsserviços de alto desempenho e escaláveis. Uso conteinerização, versionamento de código e sigo as melhores práticas de design, princípios SOLI, Clean Architecture e Testes Unitários.
+Durante minha carreira, trabalhei no desenvolvimento e manutenção de microsserviços de alto desempenho e escaláveis. Uso conteinerização, versionamento de código e sigo as melhores práticas de Design Pattners, SOLID, Clean Architecture e Testes Unitários.
 </p>
 
 ###
