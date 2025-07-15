@@ -20,12 +20,12 @@
 
 ###
 
-<p align="left">Olá, meu nome é Neilton, sou Desenvolvedor full stack com experiências como desenvolvedor backend com GoLang e PHP e desenvolvedor front-end (Vue.Js e React). Atualmente, estou cursando uma pós-graduação em Engenharia de Software, o que me ajudou a expandir minhas habilidades e a entender melhor os princípios do desenvolvimento de software.</p>
+<p align="left">Olá, meu nome é Neilton, sou um Desenvolvedor de Software com sólida experiência em Backend e vivência Full Stack, especializado na criação de microsserviços escaláveis, performáticos e seguros usando Golang e PHP. Minha formação em Análise de Sistemas e pós-graduação em Engenharia de Software me permitem combinar conhecimento acadêmico com a prática, sempre buscando excelência técnica e entrega de valor.</p>
 <p align="left">
-  Tenho vivência com GIT, metodologias ágeis, solução de problemas, planejamento estratégico, tomada de decisões e comunicação eficaz. Essas habilidades me ajudam a contribuir efetivamente para projetos, colaborar bem com equipes e entregar soluções de alta qualidade em ambientes dinâmicos e rápidos.
+  Atuo em times ágeis no desenvolvimento de APIs RESTful e aplicações web completas, com forte experiência em integração com serviços em nuvem (AWS) e implementação de boas práticas como Clean Architecture, SOLID e Design Patterns. Tenho expertise na construção de soluções escaláveis, confiáveis e de fácil manutenção, utilizando GIT, Docker e automações CI/CD. Minha experiência inclui também a implementação de soluções front-end com VueJs, React, Redux e TypeScript, garantindo responsividade e alta performance.
 </p>
 <p align="left">
-Durante minha carreira, trabalhei no desenvolvimento e manutenção de microsserviços de alto desempenho e escaláveis. Uso conteinerização, versionamento de código e sigo as melhores práticas de Design Pattners, SOLID, Clean Architecture e Testes Unitários.
+Em projetos recentes, contribuí diretamente para a redução de falhas em produção e melhoria da performance de sistemas críticos. Busco oportunidades em ambientes que valorizem a qualidade de código, a colaboração em equipe e a inovação, utilizando tecnologias como Golang, PHP, AWS, arquitetura de microsserviços, VueJs e React.
 </p>
 
 ###
