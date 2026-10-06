@@ -20,14 +20,22 @@
 
 ###
 
-<p align="left">Olá, meu nome é Neilton, sou um Desenvolvedor de Software com sólida experiência em Backend e vivência Full Stack, especializado na criação de microsserviços escaláveis, performáticos e seguros usando Golang e PHP. Minha formação em Análise de Sistemas e pós-graduação em Engenharia de Software me permitem combinar conhecimento acadêmico com a prática, sempre buscando excelência técnica e entrega de valor.</p>
 <p align="left">
-  Atuo em times ágeis no desenvolvimento de APIs RESTful e aplicações web completas, com forte experiência em integração com serviços em nuvem (AWS) e implementação de boas práticas como Clean Architecture, SOLID e Design Patterns. Tenho expertise na construção de soluções escaláveis, confiáveis e de fácil manutenção, utilizando GIT, Docker e automações CI/CD. Minha experiência inclui também a implementação de soluções front-end com VueJs, React, Redux e TypeScript, garantindo responsividade e alta performance.
+Desenvolvedor Backend Pleno com 4+ anos de experiência em microserviços escaláveis, especializado em sistemas de pagamentos e soluções de alto volume. Pós-graduação em Engenharia de Software com expertise comprovada em Golang, PHP, Nodejs e arquiteturas distribuídas.</p>
+<p align="left">
+Principais conquistas:
+• Otimizei API crítica de pagamentos, reduzindo tempo de resposta em 25% no WEpayments
+• Automatizei processos de deploy, eliminando falhas manuais em produção
+• Contribuí para redução significativa de falhas em sistemas críticos através de Clean Architecture e SOLID
+• Desenvolvi microsserviços de alto volume para operações domésticas e internacionais
 </p>
 <p align="left">
-Em projetos recentes, contribuí diretamente para a redução de falhas em produção e melhoria da performance de sistemas críticos. Busco oportunidades em ambientes que valorizem a qualidade de código, a colaboração em equipe e a inovação, utilizando tecnologias como Golang, PHP, AWS, arquitetura de microsserviços, VueJs e React.
+Stack Técnica Atual:
+Backend: Golang, PHP (Laravel, Slim), Nodejs(NestJs), APIs RESTful, Microserviços
+Cloud & DevOps: AWS (SQS, Lambda, ECS), Docker, Terraform, Kubernetes, CI/CD
+Frontend: React, Redux, TypeScript, Styled Components, VueJS
+Mensageria & Dados: Kafka, MySQL, integração com gateways de pagamento
 </p>
-
 ###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
