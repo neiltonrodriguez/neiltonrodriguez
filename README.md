@@ -36,6 +36,7 @@ Cloud & DevOps: AWS (SQS, Lambda, ECS), Docker, Terraform, Kubernetes, CI/CD
 Frontend: React, Redux, TypeScript, Styled Components, VueJS
 Mensageria & Dados: Kafka, MySQL, integração com gateways de pagamento
 </p>
+
 ###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
